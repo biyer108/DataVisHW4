@@ -33,7 +33,10 @@ Idiom: Histogram Chart
 | Months | ordered, categorical | outer horizontal spatial region (x-axis) |
 | Count | value, quantitative | vertical position on a common scale (y-axis) |
 
-This idiom is appropriate for this visualization, because of how it deals with different categories (months) that makes it useful to do a count to find which months hold the hottest temperatures for these different cities.  This data shows the 
+This idiom is appropriate for this visualization, because of how it deals with different categories (months) that makes it useful to do a count to find which months hold the hottest temperatures for these different cities.  The histogram is the most appropriate medium to show this data, because I am trying to show a count of some value of data.  This data seems to show that July having the highest counts of the highest temperature.  With June and August being 2nd and 3rd.  Finally at the end it is September and October.  All the other months do not have a count of highest temperature.  This shows that summer months typically have the highest temperature with July having a large lead in counts.  
+
+## Further Questions
+
 
 ## References
 None
